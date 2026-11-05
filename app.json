@@ -1,9 +1,9 @@
 {
   "expo": {
     "name": "Добрыня",
-    "slug": "dobrynya",
+    "slug": "trainApp",
     "version": "1.0.0",
-    "scheme": "dobrynya",
+    "scheme": "dobrinya",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -11,7 +11,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.dobrynya.app",
+      "package": "com.dobrinya.app",
       "versionCode": 1,
       "softwareKeyboardLayoutMode": "resize",
       "adaptiveIcon": {
@@ -43,6 +43,7 @@
       "eas": {
         "projectId": "db4aa5df-dc98-43b4-94ad-d791f484a021"
       }
-    }
+    },
+    "owner": "demik23"
   }
 }
